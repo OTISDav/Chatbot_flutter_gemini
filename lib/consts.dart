@@ -1,1 +1,1 @@
-const String GEMINI_API_KEY = "AIzaSyCvw181NasMbriuWy04OVP8-OuqY3jTvAs";
+const String GEMINI_API_KEY = "*****";
